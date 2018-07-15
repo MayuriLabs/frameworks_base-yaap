@@ -6565,7 +6565,7 @@ public final class Settings {
          */
         @Readable
         public static final String OMNI_ADVANCED_REBOOT = "advanced_reboot";
- 
+
         /**
 	 * Whether to show qs footer text
          * @hide
@@ -7267,6 +7267,17 @@ public final class Settings {
          */
         public static final String[] LEGACY_RESTORE_SETTINGS = {
         };
+
+        /**
+         * Display style of AM/PM next to clock in status bar
+         * 0: No display (Gingerbread/ICS stock)
+         * 1: Small display (Froyo stock)
+         * 2: Normal display (Eclair stock)
+         * default: 0
+         *
+         * @hide
+         */
+        public static final String STATUS_BAR_AM_PM = "status_bar_am_pm";
 
         /**
          * IMPORTANT: If you add a new public settings you also have to add it to
