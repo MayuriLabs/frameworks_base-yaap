@@ -149,4 +149,7 @@
     <!-- Name of the firewall status bar icon. -->
     <string name="status_bar_firewall">Firewall</string>
     <string name="status_bar_firewall_slot" translatable="false">firewall</string>
+
+    <!-- Name of the nfc status bar icon. -->
+    <string name="status_bar_nfc">NFC</string>
 </resources>
