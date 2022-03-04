@@ -30,6 +30,10 @@
         android:key="managed_profile"
         android:title="@string/status_bar_work" />
 
+    <com.android.systemui.tuner.StatusBarSwitch
+        android:key="firewall"
+        android:title="@string/status_bar_firewall" />
+
     <!-- ime -->
     <!-- sync_failing -->
     <!-- sync_active -->
