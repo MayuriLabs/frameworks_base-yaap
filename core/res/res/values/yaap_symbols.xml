@@ -18,14 +18,6 @@
     <java-symbol type="array" name="config_deviceKeyHandlerLibs" />
     <java-symbol type="array" name="config_deviceKeyHandlerClasses" />
 
-    <!-- PixelPropUtils -->
-    <java-symbol type="string" name="cert_device" />
-    <java-symbol type="string" name="cert_fp" />
-    <java-symbol type="string" name="cert_model" />
-    <java-symbol type="string" name="cert_spl" />
-    <java-symbol type="string" name="cert_sdk" />
-    <java-symbol type="string" name="cert_manufacturer" />
-
      <!-- Package Manager -->
      <java-symbol type="array" name="config_deviceDisabledComponents" />
      <java-symbol type="array" name="config_globallyDisabledComponents" />
