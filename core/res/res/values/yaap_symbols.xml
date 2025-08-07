@@ -25,7 +25,6 @@
     <java-symbol type="string" name="cert_spl" />
     <java-symbol type="string" name="cert_sdk" />
     <java-symbol type="string" name="cert_manufacturer" />
-    <java-symbol type="array" name="config_certifiedKeybox" />
 
      <!-- Package Manager -->
      <java-symbol type="array" name="config_deviceDisabledComponents" />
